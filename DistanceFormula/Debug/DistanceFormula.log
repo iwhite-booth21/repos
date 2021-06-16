@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\booth\source\repos\DistanceFormula\Source.cpp(3,16): error C2065:  'point': undeclared identifier
+C:\Users\booth\source\repos\DistanceFormula\Source.cpp(3,22): error C2146:  syntax error: missing ')' before identifier 'P1'
+C:\Users\booth\source\repos\DistanceFormula\Source.cpp(21,27): error C3861:  'Distance': identifier not found
