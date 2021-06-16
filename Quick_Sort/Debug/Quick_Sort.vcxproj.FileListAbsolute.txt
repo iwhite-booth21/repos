@@ -1,0 +1,3 @@
+C:\Users\Student\source\repos\Quick_Sort\Debug\Quick_Sort.exe
+C:\Users\Student\source\repos\Quick_Sort\Debug\Quick_Sort.pdb
+C:\Users\booth\source\repos\Quick_Sort\Debug\Quick_Sort.exe

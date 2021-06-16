@@ -1,0 +1,2 @@
+C:\Users\booth\source\repos\Quick_Sort\x64\Debug\Quick_Sort.exe
+C:\Users\booth\source\repos\Quick_Sort\x64\Debug\Quick_Sort.pdb
